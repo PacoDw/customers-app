@@ -12,3 +12,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.customers-actions {
+  background-color: #AAA;
+  padding: 10px;
+  margin: 10px;
+}
+
+.customers-actions button {
+  background-color: white;
+  min-width: 100px;
+  height: 30px;
+  margin: 5px;
+}
+
+.customer-list-item .field {
+  width: 160px;
+  margin: 1px;
+  padding: 4px;
+  background-color: #EEEE;
+  display: inline-block;
+}
