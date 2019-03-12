@@ -1,19 +1,22 @@
 {
-  "customers" : [
+  "customers": [
     {
-      "dni" : "232333333",
-      "name" : "Juan Perez",
-      "age" : 34
+      "id": "232333333",
+      "dni": "232333333",
+      "name": "FILOMENO PEREZ",
+      "age": 23
     },
     {
-      "dni" : "332333333",
-      "name" : "Fulanito",
-      "age" : 24
+      "id": "30000001",
+      "dni": "30000001",
+      "name": "Fulanito",
+      "age": 24
     },
     {
-      "dni" : "432333333",
-      "name" : "Perenganito",
-      "age" : 27
+      "id": "432333333",
+      "dni": "432333333",
+      "name": "Perenganito",
+      "age": 27
     }
   ],
   "posts": [
